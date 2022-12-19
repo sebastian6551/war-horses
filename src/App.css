@@ -8,10 +8,10 @@
 }
 
 .title {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Plus Jakarta Sans', sans-serif;
   font-style: normal;
-  font-weight: 500;
-  font-size: 1.75em;
+  font-weight: 700;
+  font-size: 1.75rem;
   color: #111111;
 }
 
@@ -29,4 +29,7 @@
   flex-direction: column;
   text-align: center;
   gap: 10px;
+  background: #C6D6E9;
+  padding: 10px;
+  border-radius: 10px;
 }
